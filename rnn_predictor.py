@@ -3,8 +3,12 @@
 """
 Created on Tue Aug 2 15:16:25 2018
 
-@author: Gaurav Gahukar
-module edited-at-night-train station
+@author : gaurav gahukar
+        	: caffeine110
+
+AIM	    : To Predict the Stock PRice of a perticular stock Using Recurrent Neural Network
+        : Implimentation of RNN using LSTM layers
+        
 """
 
 #Phase - 1 : importing dependencies 
